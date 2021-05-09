@@ -1,4 +1,4 @@
-# rl_rec_gan
+# Recommendation System using Reinforcement Learning with Generative Adversarial Training
 
 
 - rl_rec_v1 [Readme](rl_rec_v1/README.md)

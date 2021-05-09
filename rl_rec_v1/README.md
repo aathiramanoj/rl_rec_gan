@@ -1,6 +1,4 @@
-# Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation
-
-
+# Recommendation System using Reinforcement Learning with Generative Adversarial Training
 
 ## Introduction
 
@@ -14,7 +12,7 @@ This project is a tensorflow implementation of our work.
 
 ## Dependencies
 
-- Python 2.7
+- Python 3.7
 - Numpy 1.14.5
 - Tensorflow 1.3.1
 
