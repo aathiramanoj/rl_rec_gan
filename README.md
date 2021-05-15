@@ -15,9 +15,15 @@ difficulty of deploying a recommender system with real users for online evaluati
 simulation-based studies to first investigate the effectiveness of our approach.  We used 2 different simulations to model online user interaction. The details about the simulations can be found in the Final Project Report.
 The instructions to run each of the simulations can be found in the corresponding READMEs
 
-- Simulation 1 [Readme](rl_rec_simulation_1/README.md)
+- [Simulation 1 and offline CIKM dataset](rl_rec_simulation_1/README.md)
 
-- Simulation 2 [Readme](rl_rec_simulation_2/README.md)
+- [Simulation 2](rl_rec_simulation_2/README.md)
 
 We trained our model on both the simulation datasets as well as the offline CIKM dataset for 10
 epochs to recommend top-1 and top-10 items.
+
+## Evaluation
+
+The results of our experiments are as follows,
+
+![plot](eval_results.png)
