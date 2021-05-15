@@ -1,11 +1,15 @@
-# Recommendation System using Reinforcement Learning with Generative Adversarial Training
+# Simulation 2
 
-A pytorch implementation of *Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation* (https://arxiv.org/pdf/1911.03845.pdf).
+Please refer [Final Project Report](./Final%20Project%20Report.pdf) for details about the simulation.
 
 ## Dependency
+ - Python 3.7
+ - Numpy 1.14.5
  - Pytorch version: 1.1.0
+
+## Code Structure
  
-## Usage: 
+## Quick Start: 
 In the directory of IRecGAN, type command: 
 
 ```
