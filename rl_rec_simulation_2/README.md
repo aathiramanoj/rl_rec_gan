@@ -1,6 +1,6 @@
 # Simulation 2
 
-Please refer [Final Project Report](./Final%20Project%20Report.pdf) for details about the simulation.
+Please refer [Final Project Report](../Final%20Project%20Report.pdf) for details about the simulation.
 
 ## Dependency
  - Python 3.7
