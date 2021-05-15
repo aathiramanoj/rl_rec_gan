@@ -1,5 +1,5 @@
 # Simulation 1 and Offline CIKM 2016 dataset
-The details about the simulation can be found in the accompanying Final Project Report.
+The details about the simulation can be found in the accompanying [Final Project Report](../Final%20Project%20Report.pdf).
 
 ## Dependencies
 
