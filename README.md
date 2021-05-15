@@ -13,8 +13,11 @@ discriminator to evaluate the quality of generated data and scale the generated 
 Our experiments were conducted in both online and offline environments. Subject to the
 difficulty of deploying a recommender system with real users for online evaluation, we used
 simulation-based studies to first investigate the effectiveness of our approach.  We used 2 different simulations to model online user interaction. The details about the simulations can be found in the Final Project Report.
-The instructions to run each of the simuations can be found in the corresponding READMEs
+The instructions to run each of the simulations can be found in the corresponding READMEs
 
-- rl_rec_v1 [Readme](rl_rec_v1/README.md)
+- Simulation 1 [Readme](rl_rec_simulation_1/README.md)
 
-- rl_rec_v2 [Readme](rl_rec_v2/README.md)
+- Simulation 2 [Readme](rl_rec_simulation_2/README.md)
+
+We trained our model on both the simulation datasets as well as the offline CIKM dataset for 10
+epochs to recommend top-1 and top-10 items.
