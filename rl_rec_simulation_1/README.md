@@ -1,5 +1,5 @@
 # Simulation 1 and Offline CIKM 2016 dataset
-The details about the simulation can be found in the accompanying Final Project Report.
+The details about the simulation can be found in the accompanying [Final Project Report](../Final%20Project%20Report.pdf).
 
 ## Dependencies
 
@@ -31,10 +31,5 @@ We conduct empirical evaluations on both real-world and synthetic datasets to de
   ```
   python main.py
   ```
-
-
-## Referred Paper
-
-Xueying Bai\*, Jian Guan\*, Hongning Wang. Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation. Published in the 33rd Conference on Neural Information Processing Systems (NeurIPS 2019), Vancouver, Canada. Here is the [preprint paper](https://arxiv.org/pdf/1911.03845.pdf) 
 
 

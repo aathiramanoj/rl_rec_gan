@@ -27,3 +27,9 @@ epochs to recommend top-1 and top-10 items.
 The results of our experiments are as follows,
 
 ![plot](eval_results.png)
+
+## Referred Paper
+
+- Xueying Bai\*, Jian Guan\*, Hongning Wang. Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation. Published in the 33rd Conference on Neural Information Processing Systems (NeurIPS 2019), Vancouver, Canada. Here is the [preprint paper](https://arxiv.org/pdf/1911.03845.pdf) 
+
+
